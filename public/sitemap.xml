@@ -7,6 +7,14 @@
   </url>
   
   <url>
+    <loc>https://birthday.ssdp.org/calendar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://birthday.ssdp.org/sign-up/</loc>
+  </url>
+  
+  <url>
     <loc>https://birthday.ssdp.org/categories/</loc>
     <priority>0</priority>
   </url>

@@ -7093,4 +7093,19 @@ h1, h2, h3, h4, h5, h6, .nav-link {
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase; }
 
+h1 {
+  color: #136F8D; }
+
+h2 {
+  color: #636467; }
+
+h3 {
+  color: #FAA732; }
+
+h4 {
+  color: #136F8D; }
+
+h5 {
+  color: #003249; }
+
 /*# sourceMappingURL=ssdp.css.map */
