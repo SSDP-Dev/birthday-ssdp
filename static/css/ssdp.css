@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7085,7 +7086,10 @@ a.text-gray-ssdp:hover, a.text-gray-ssdp:focus {
   .table-bordered th,
   .table-bordered td {
     border: 1px solid #ddd !important; } }
-h1, h2, h3, h4, h5, h6 {
+html {
+  font-family: 'Open Sans', sans-serif; }
+
+h1, h2, h3, h4, h5, h6, .nav-link {
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase; }
 
