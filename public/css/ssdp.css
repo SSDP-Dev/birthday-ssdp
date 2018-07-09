@@ -7086,7 +7086,6 @@ a.text-gray-ssdp:hover, a.text-gray-ssdp:focus {
   .table-bordered td {
     border: 1px solid #ddd !important; } }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase; }
+  font-family: 'Montserrat', sans-serif; }
 
 /*# sourceMappingURL=ssdp.css.map */
