@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://birthday.ssdp.org/</loc>
+    <loc>https://party.ssdp.org/</loc>
   </url>
   
   <url>
-    <loc>https://birthday.ssdp.org/calendar/</loc>
+    <loc>https://party.ssdp.org/calendar/</loc>
   </url>
   
   <url>
-    <loc>https://birthday.ssdp.org/host/</loc>
+    <loc>https://party.ssdp.org/host/</loc>
   </url>
   
   <url>
-    <loc>https://birthday.ssdp.org/categories/</loc>
+    <loc>https://party.ssdp.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://birthday.ssdp.org/tags/</loc>
+    <loc>https://party.ssdp.org/tags/</loc>
     <priority>0</priority>
   </url>
   
